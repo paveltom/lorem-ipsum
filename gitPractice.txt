@@ -1,3 +1,4 @@
-1. git lesson 2
-2. new editing
-3. editing while there is index.html file in 'folder1'
+1. 
+2. 
+3.
+4. lorem ipsum
